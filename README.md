@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chanupa-athsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanupa-athsara" height="30" width="40" /></a>
-<a href="https://fb.com/chanupa athsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanupa athsara" height="30" width="40" /></a>
-<a href="https://instagram.com/_athsara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_athsara_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chanupa-athsara-4a78a8236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanupa-athsara" height="30" width="40" /></a>
+<a href="https://web.facebook.com/chanupa.athsara.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanupa athsara" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_athsara_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_athsara_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
