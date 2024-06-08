@@ -9,8 +9,6 @@
 
 - 💻 Interested in **Front-End & Back-End Technologies**
 
-- 🌱 I’m currently learning **React JS**
-
 - 📫 Reach me **athsara141@gmail.com**
 
 
