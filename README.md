@@ -4,7 +4,7 @@
 </h1>
 
 ## 👨‍💻 Profile
-> *Motivated Data Science undergraduate at SLIIT (GPA 3.74) with 4 Dean's List Awards. Passionate about AI/ML, data analytics, and full-stack development. Seeking opportunities to apply technical skills to solve real-world problems.*
+> *Motivated Data Science undergraduate at SLIIT, Passionate about AI/ML, data analytics, and full-stack development. Seeking opportunities to apply technical skills to solve real-world problems.*
 
 ## 🛠️ Technical Skills
 **Programming & Development**  
