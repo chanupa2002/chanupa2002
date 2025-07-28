@@ -1,24 +1,84 @@
-<!-- ![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)  -->
-<!-- <h1 align="center">Chanupa Athsara</h1> -->
-<!-- <h1 align="center"> - Software Engineering Undergraduate | Developer - </h1>  -->
-<h3 align="center">Software Engineering Undergraduate | Developer</h3>  
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<!-- Dynamic header with banner image -->
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Chanupa+Athsara;Data+Science+Undergraduate;AI%2FML+%7C+Full-Stack+Developer" alt="Header Typing SVG">
+</h1>
 
+<!-- Profile summary section -->
+<div align="center">
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=chanupa2002&theme=nightowl&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats">
+</div>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanupa2002&label=Profile%20views&color=0e75b6&style=flat" alt="chanupa2002" /> </p>  -->
+## 👨‍💻 Profile
+> *Motivated Data Science undergraduate at SLIIT (GPA 3.74) with 4 Dean's List Awards. Passionate about AI/ML, data analytics, and full-stack development. Seeking opportunities to apply technical skills to solve real-world problems.*
 
-- 💻 Interested in
-        <br><pre>**Front-End & Back-End Technologies** , **AI/ML** , **Project Management**</pre>
+## 🛠️ Technical Skills
+**Programming & Development**  
+![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
-- 📫 Reach me **athsara141@gmail.com**
+**Web Technologies**  
+![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
+**Databases & Tools**  
+![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chanupa-athsara-4a78a8236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanupa-athsara" height="30" width="40" /></a>
-<a href="https://web.facebook.com/chanupa.athsara.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanupa athsara" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_athsara_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_athsara_" height="30" width="40" /></a>
-</p>
+## 💼 Experience
+**Junior IT Executive** | Avon Groups (Pvt) Ltd  
+`Sep 2022 - Apr 2025`  
+- Managed IT infrastructure and operational systems
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89NlVK9G8MUgOHgAGwXayi6Ev-vWq9ZHtRQ&s" alt="java" width="40" height="40"/> </a> </p>   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png.webp" alt="sqlServer" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-photoshop-icon.png" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="mockflow" width="40" height="40"/> </a> <a href="https://mockflow.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354080/mockflow.svg" alt="mockflow" width="40" height="40"/> </a>
+**Director of Information Management** | OREA (Volunteer)  
+`Sep 2023 - Oct 2024`  
+- Led digital transformation initiatives for engineering association
+
+## 🏆 Projects
+1. **AI-based Smart Attendance & HR System**  
+   » Facial recognition for automated attendance tracking  
+   » Salary calculation and reporting system  
+   ![](https://img.shields.io/badge/-Python-informational) ![](https://img.shields.io/badge/-OpenCV-blue) ![](https://img.shields.io/badge/-Flask-lightgrey)  
+   [![View Project](https://img.shields.io/badge/Project_Overview-LinkedIn-blue)](https://www.linkedin.com/posts/chanupa-athsara-4a78a8236_ai-based-smart-attendance-hr-system-activity-7244037785756614656-pUtW?utm_source=share&utm_medium=member_desktop)
+   [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black)](https://github.com/chanupa2002/smart_attendance_hr_system)
+
+2. **MERN Stack POS + Inventory System**  
+   » Real-time inventory tracking and sales reporting  
+   » Automated invoice generation  
+   ![](https://img.shields.io/badge/-MERN-9cf) ![](https://img.shields.io/badge/-MongoDB-green) ![](https://img.shields.io/badge/-React-blue)  
+   [![Live Demo](https://img.shields.io/badge/Project_Overview-LinkedIn-blue)](https://www.linkedin.com/posts/chanupa-athsara-4a78a8236_pos-with-inventory-management-system-activity-7272242986233524224-4L2W?utm_source=share&utm_medium=member_desktop)
+
+3. **Insurance Management System**  
+   » Policy administration with customer portal  
+   » Claims processing and feedback system  
+   ![](https://img.shields.io/badge/-PHP-purple) ![](https://img.shields.io/badge/-MySQL-blue) ![](https://img.shields.io/badge/-JavaScript-yellow)  
+   [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black)](https://github.com/chanupa2002/Insurance-Management-System)
+
+## 📚 Education
+**BSc (Hons) Data Science** | SLIIT  
+`Current Undergraduate | GPA 3.74`  
+- 4x Dean's List Awardee
+
+**Diploma in IT** | ESOFT Metro Campus  
+`Pearson Assured Certification`
+
+## 📞 Contact
+[![](https://img.shields.io/badge/Gmail-athsara141@gmail.com-D14836?logo=gmail)](mailto:athsara141@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-chanupa--athsara-0077B5?logo=linkedin)](https://www.linkedin.com/in/chanupa-athsara-4a78a8236/)
+[![](https://img.shields.io/badge/Portfolio-chanupa.tech-4285F4?logo=google-chrome)](http://www.chanupa.tech/)
+[![](https://img.shields.io/badge/Phone-%2B94766992183-green?logo=whatsapp)](tel:+94766992183)
+
+<div align="center">
+  <a href="https://github.com/chanupa2002?tab=repositories">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Explore%20My%20Projects%20→&fontSize=24&fontAlignY=70">
+  </a>
+</div>
