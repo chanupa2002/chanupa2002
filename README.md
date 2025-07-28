@@ -29,14 +29,6 @@
 ![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-## 📚 Education
-**BSc (Hons) Data Science** | SLIIT  
-`Current Undergraduate | GPA 3.74`  
-- 4x Dean's List Awardee
-
-**Diploma in IT** | ESOFT Metro Campus  
-`Pearson Assured Certification`
-
 ## 📞 Contact
 [![](https://img.shields.io/badge/Gmail-athsara141@gmail.com-D14836?logo=gmail)](mailto:athsara141@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-chanupa--athsara-0077B5?logo=linkedin)](https://www.linkedin.com/in/chanupa-athsara-4a78a8236/)
