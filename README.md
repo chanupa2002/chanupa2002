@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Chanupa+Athsara;Data+Science+Undergraduate;AI%2FML+%7C+Full-Stack+Developer" alt="Header Typing SVG">
 </h1>
 
-<!-- Profile summary section -->
-<div align="center">
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=chanupa2002&theme=nightowl&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats">
-</div>
-
 ## 👨‍💻 Profile
 > *Motivated Data Science undergraduate at SLIIT (GPA 3.74) with 4 Dean's List Awards. Passionate about AI/ML, data analytics, and full-stack development. Seeking opportunities to apply technical skills to solve real-world problems.*
 
@@ -33,35 +28,6 @@
 ![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-
-## 💼 Experience
-**Junior IT Executive** | Avon Groups (Pvt) Ltd  
-`Sep 2022 - Apr 2025`  
-- Managed IT infrastructure and operational systems
-
-**Director of Information Management** | OREA (Volunteer)  
-`Sep 2023 - Oct 2024`  
-- Led digital transformation initiatives for engineering association
-
-## 🏆 Projects
-1. **AI-based Smart Attendance & HR System**  
-   » Facial recognition for automated attendance tracking  
-   » Salary calculation and reporting system  
-   ![](https://img.shields.io/badge/-Python-informational) ![](https://img.shields.io/badge/-OpenCV-blue) ![](https://img.shields.io/badge/-Flask-lightgrey)  
-   [![View Project](https://img.shields.io/badge/Project_Overview-LinkedIn-blue)](https://www.linkedin.com/posts/chanupa-athsara-4a78a8236_ai-based-smart-attendance-hr-system-activity-7244037785756614656-pUtW?utm_source=share&utm_medium=member_desktop)
-   [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black)](https://github.com/chanupa2002/smart_attendance_hr_system)
-
-2. **MERN Stack POS + Inventory System**  
-   » Real-time inventory tracking and sales reporting  
-   » Automated invoice generation  
-   ![](https://img.shields.io/badge/-MERN-9cf) ![](https://img.shields.io/badge/-MongoDB-green) ![](https://img.shields.io/badge/-React-blue)  
-   [![Live Demo](https://img.shields.io/badge/Project_Overview-LinkedIn-blue)](https://www.linkedin.com/posts/chanupa-athsara-4a78a8236_pos-with-inventory-management-system-activity-7272242986233524224-4L2W?utm_source=share&utm_medium=member_desktop)
-
-3. **Insurance Management System**  
-   » Policy administration with customer portal  
-   » Claims processing and feedback system  
-   ![](https://img.shields.io/badge/-PHP-purple) ![](https://img.shields.io/badge/-MySQL-blue) ![](https://img.shields.io/badge/-JavaScript-yellow)  
-   [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black)](https://github.com/chanupa2002/Insurance-Management-System)
 
 ## 📚 Education
 **BSc (Hons) Data Science** | SLIIT  
